@@ -1921,7 +1921,7 @@ var ofmeet = (function(of)
 
     }({}));
 
-    of.recording = false;
+    of.recording = true;
 
     return of;
 
